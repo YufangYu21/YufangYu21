@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying for a master's degree at Shandong University
+- 🌱 I’m currently interested in rlhf/vLLM/VLM
+- 📫 How to reach me: yuyufang21@163.com
+- 😄 Pronouns: yuki
