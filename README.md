@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying for a master's degree at Shandong University
 - 🌱 I’m currently interested in rlhf/vLLM/VLM
 - 📫 How to reach me: yuyufang21@163.com
-- 😄 Pronouns: yuki
+- 😄 You can call me Yuki or YuYufang
